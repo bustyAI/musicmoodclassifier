@@ -1,3 +1,4 @@
 import Player from "./Player";
 import PlayerIcon from "./PlayerIcon";
-export { Player, PlayerIcon };
+import Emotion from "./Emotion";
+export { Player, PlayerIcon, Emotion };
