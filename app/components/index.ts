@@ -1,3 +1,3 @@
 import Player from "./Player";
-
-export { Player };
+import PlayerIcon from "./PlayerIcon";
+export { Player, PlayerIcon };
